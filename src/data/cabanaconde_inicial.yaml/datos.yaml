@@ -1,19 +1,20 @@
 ruta: "Emp. R0405105(CABANACONDE)-CHOCO(LD.PROV. CASTILLA)"
 sector: "Emp. R0405105(CABANACONDE)-CHOCO(LD.PROV. CASTILLA)"
 tramo: "Emp. R0405105(CABANACONDE)-CHOCO(LD.PROV. CASTILLA)"
-longitud: 14064.00
-meta: 14064.00
+longitud: 13000.00
+meta: 13000.00
 fecha_inicio:
   day: 1
   month: 5
   year: 2025
 tiempo_ejecucion_dias: 240
 progresiva_inicial: 0.00
-progresiva_final: 14064.00
-contratista: "Grupo ARICOL"
+progresiva_final: 13000.00
+contratista: "Grupo ARICOL E.I.R.L"
 categoria: Vecinal
 jefe_mantenimiento: "Ing. Jorge Luis Huaman Ccahuana"
 numero_trabajadores: 4
 cuadrilla: Única
+monto: 64896.00
 numero_cuadrillas: 1
 servicio: Mantenimiento rutinario

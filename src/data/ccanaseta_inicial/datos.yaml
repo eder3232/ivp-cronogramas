@@ -1,0 +1,20 @@
+ruta: "EMP. PE-34E - CCANASETA"
+sector: "EMP. PE-34E - CCANASETA"
+tramo: "EMP. PE-34E - CCANASETA"
+longitud: 8170.00
+meta: 8170.00
+fecha_inicio:
+  day: 1
+  month: 5
+  year: 2025
+tiempo_ejecucion_dias: 240
+progresiva_inicial: 0.00
+progresiva_final: 8170.00
+contratista: "Grupo ARICOL E.I.R.L"
+categoria: Vecinal
+jefe_mantenimiento: "Ing. Jorge Luis Huaman Ccahuana"
+numero_trabajadores: 3
+cuadrilla: Única
+monto: 40784.80
+numero_cuadrillas: 1
+servicio: Mantenimiento rutinario

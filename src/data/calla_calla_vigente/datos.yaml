@@ -1,0 +1,20 @@
+ruta: "EMP. AR-691 - CALLA CALLA - YURACCANCHA - CUCHUHURI - PALLALLMAYO"
+sector: "EMP. AR-691 - CALLA CALLA - YURACCANCHA - CUCHUHURI - PALLALLMAYO"
+tramo: "EMP. AR-691 - CALLA CALLA - YURACCANCHA - CUCHUHURI - PALLALLMAYO"
+longitud: 11920.00
+meta: 11920.00
+fecha_inicio:
+  day: 16
+  month: 4
+  year: 2025
+tiempo_ejecucion_dias: 240
+progresiva_inicial: 0.00
+progresiva_final: 11920.00
+contratista: "Grupo ARICOL E.I.R.L"
+categoria: Vecinal
+jefe_mantenimiento: "Ing. Jorge Luis Huaman Ccahuana"
+numero_trabajadores: 3
+cuadrilla: Única
+monto: 59504.80
+numero_cuadrillas: 1
+servicio: Mantenimiento rutinario

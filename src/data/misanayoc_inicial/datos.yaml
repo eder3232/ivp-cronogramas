@@ -1,0 +1,20 @@
+ruta: "EMP. AR-706 - MISANAYOC"
+sector: "EMP. AR-706 - MISANAYOC"
+tramo: "EMP. AR-706 - MISANAYOC"
+longitud: 6600.00
+meta: 6600.00
+fecha_inicio:
+  day: 1
+  month: 5
+  year: 2025
+tiempo_ejecucion_dias: 240
+progresiva_inicial: 0.00
+progresiva_final: 6600.00
+contratista: "BUILDIA S.A.C."
+categoria: Vecinal
+jefe_mantenimiento: "Ing. Juan Arturo Canazas Gutierrez"
+numero_trabajadores: 2
+cuadrilla: Única
+monto: 40800.00
+numero_cuadrillas: 1
+servicio: Mantenimiento rutinario
