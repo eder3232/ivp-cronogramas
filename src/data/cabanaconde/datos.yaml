@@ -17,3 +17,9 @@ numero_trabajadores: 4
 cuadrilla: Única
 numero_cuadrillas: 1
 servicio: Mantenimiento rutinario
+monto: 59504.80
+contrato: "001-2025"
+departamento: Arequipa
+provincia: Caylloma
+distritos:
+  - Cabanaconde

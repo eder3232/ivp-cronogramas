@@ -18,3 +18,10 @@ cuadrilla: Única
 monto: 165130.40
 numero_cuadrillas: 1
 servicio: Mantenimiento rutinario
+contrato: "004-2025"
+departamento: Arequipa
+provincia: Caylloma
+distritos:
+  - Chivay
+  - Tuti
+  - Sibayo

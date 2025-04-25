@@ -18,3 +18,8 @@ cuadrilla: Única
 monto: 59504.80
 numero_cuadrillas: 1
 servicio: Mantenimiento rutinario
+contrato: "006-2025"
+departamento: Arequipa
+provincia: Caylloma
+distritos:
+  - Callalli
