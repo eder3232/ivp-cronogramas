@@ -4,8 +4,8 @@ tramo: "EMP. AR-111 (NUEVO SIBAYO) - TUTI - EMP.AR-681 (DV. CHIVAY)"
 longitud: 32252.00
 meta: 32252.00
 fecha_inicio:
-  day: 1
-  month: 5
+  day: 15
+  month: 4
   year: 2025
 tiempo_ejecucion_dias: 240
 progresiva_inicial: 0.00

@@ -1,0 +1,149 @@
+- codigo: MR100
+  descripcion: CONSERVACION DE CALZADA
+  actividades:
+  - codigo: MR101
+    descripcion: Limpieza de Calzada
+    unidad_medida: Km
+    tablas_por_cuadrilla: 1
+    numero_cuadrillas: 1
+    total_tablas_por_actividad: 1
+    numero_dias: 45
+    rendimiento: 0.2
+  - codigo: MR102
+    descripcion: Bacheo
+    unidad_medida: m2
+    tablas_por_cuadrilla: 1
+    numero_cuadrillas: 1
+    total_tablas_por_actividad: 1
+    numero_dias: 60
+    rendimiento: 10
+  - codigo: MR103
+    descripcion: Desquinche
+    unidad_medida: m3
+    tablas_por_cuadrilla: 1
+    numero_cuadrillas: 1
+    total_tablas_por_actividad: 1
+    numero_dias: 5
+    rendimiento: 2.5
+  - codigo: MR104
+    descripcion: Remoción de Derrumbes
+    unidad_medida: m3
+    tablas_por_cuadrilla: 1
+    numero_cuadrillas: 1
+    total_tablas_por_actividad: 1
+    numero_dias: 16
+    rendimiento: 3
+- codigo: MR200
+  descripcion: LIMPIEZA DE OBRAS DE ARTE
+  actividades:
+  - codigo: MR201
+    descripcion: Limpieza de Cunetas
+    unidad_medida: m
+    tablas_por_cuadrilla: 1
+    numero_cuadrillas: 1
+    total_tablas_por_actividad: 1
+    numero_dias: 44
+    rendimiento: 120
+  - codigo: MR202
+    descripcion: Limpieza de Alcantarillas
+    unidad_medida: Und
+    tablas_por_cuadrilla: 1
+    numero_cuadrillas: 1
+    total_tablas_por_actividad: 1
+    numero_dias: 0
+    rendimiento: 0.67
+  - codigo: MR203
+    descripcion: Limpieza de Badén
+    unidad_medida: m2
+    tablas_por_cuadrilla: 1
+    numero_cuadrillas: 1
+    total_tablas_por_actividad: 1
+    numero_dias: 11
+    rendimiento: 10
+  - codigo: MR204
+    descripcion: Limpieza de Zanjas de Coronación
+    unidad_medida: m
+    tablas_por_cuadrilla: 1
+    numero_cuadrillas: 1
+    total_tablas_por_actividad: 1
+    numero_dias: 0
+    rendimiento: 40
+  - codigo: MR205
+    descripcion: Limpieza de Pontones
+    unidad_medida: Und
+    tablas_por_cuadrilla: 1
+    numero_cuadrillas: 1
+    total_tablas_por_actividad: 1
+    numero_dias: 0
+    rendimiento: 0.67
+  - codigo: MR206
+    descripcion: Encauzamiento Pequeños cursos Agua
+    unidad_medida: m
+    tablas_por_cuadrilla: 1
+    numero_cuadrillas: 1
+    total_tablas_por_actividad: 1
+    numero_dias: 0
+    rendimiento: 40
+- codigo: MR300
+  descripcion: CONTROL DE VEGETACION
+  actividades:
+  - codigo: MR301
+    descripcion: Roce y limpieza
+    unidad_medida: m2
+    tablas_por_cuadrilla: 1
+    numero_cuadrillas: 1
+    total_tablas_por_actividad: 1
+    numero_dias: 44
+    rendimiento: 400
+- codigo: MR400
+  descripcion: SEGURIDAD VIAL
+  actividades:
+  - codigo: MR401
+    descripcion: Conservación de Señales
+    unidad_medida: Und
+    tablas_por_cuadrilla: 1
+    numero_cuadrillas: 1
+    total_tablas_por_actividad: 1
+    numero_dias: 5
+    rendimiento: 50
+- codigo: MR500
+  descripcion: MEDIO AMBIENTE
+  actividades:
+  - codigo: MR501
+    descripcion: Reforestación
+    unidad_medida: Und
+    tablas_por_cuadrilla: 1
+    numero_cuadrillas: 1
+    total_tablas_por_actividad: 1
+    numero_dias: 0
+    rendimiento: 0.67
+- codigo: MR600
+  descripcion: VIGILANCIA Y CONTROL VIAL
+  actividades:
+  - codigo: MR601
+    descripcion: Vigilancia y Control
+    unidad_medida: Km
+    tablas_por_cuadrilla: 1
+    numero_cuadrillas: 1
+    total_tablas_por_actividad: 1
+    numero_dias: 5
+    rendimiento: 25
+- codigo: MR700
+  descripcion: ACTIVIDADES COMPLEMENTARIAS
+  actividades:
+  - codigo: MR701
+    descripcion: Reparación de muros secos
+    unidad_medida: m3
+    tablas_por_cuadrilla: 1
+    numero_cuadrillas: 1
+    total_tablas_por_actividad: 1
+    numero_dias: 5
+    rendimiento: 1.2
+  - codigo: MR702
+    descripcion: Reparación de Pontones
+    unidad_medida: Und
+    tablas_por_cuadrilla: 1
+    numero_cuadrillas: 1
+    total_tablas_por_actividad: 1
+    numero_dias: 0
+    rendimiento: 0.67

@@ -1,0 +1,60 @@
+-actividades:
+  - codigo: MR-100
+    descripcion: CONSERVACION DE CALZADA
+    subactividades:
+      - codigo: MR-101
+        descripcion: Limpieza de Calzada
+        carga_reajustada: 4.40
+      - codigo: MR-102
+        descripcion: Bacheo
+        carga_reajustada: 1405.00
+      - codigo: MR-103
+        descripcion: Desquinche
+        carga_reajustada: 8.67
+      - codigo: MR-104
+        descripcion: Remoción de Derrumbes
+        carga_reajustada: 26.67
+
+  - codigo: MR-200
+    descripcion: LIMPIEZA DE OBRAS DE DRENAJE
+    subactividades:
+      - codigo: MR-201
+        descripcion: Limpieza de Cunetas
+        carga_reajustada: 6000.00
+      - codigo: MR-202
+        descripcion: Limpieza de Alcantarillas
+        carga_reajustada: 0.00
+      - codigo: MR-203
+        descripcion: Limpieza de Badén
+        carga_reajustada: 420.00
+      - codigo: MR-206
+        descripcion: Encausamiento de pequeños cursos
+        carga_reajustada: 0.00
+
+  - codigo: MR-300
+    descripcion: CONTROL DE VEGETACIÓN
+    subactividades:
+      - codigo: MR-301
+        descripcion: Roce y Limpieza
+        carga_reajustada: 3466.67
+
+  - codigo: MR-400
+    descripcion: SEGURIDAD VIAL
+    subactividades:
+      - codigo: MR-401
+        descripcion: Conservación de Señales
+        carga_reajustada: 13.33
+
+  - codigo: MR-600
+    descripcion: VIGILANCIA Y CONTROL VIAL
+    subactividades:
+      - codigo: MR-601
+        descripcion: Vigilancia y Control
+        carga_reajustada: 29.04
+
+  - codigo: MR-700
+    descripcion: ACTIVIDADES COMPLEMENTARIAS
+    subactividades:
+      - codigo: MR-701
+        descripcion: Reparación de Muros Secos
+        carga_reajustada: 16.00
