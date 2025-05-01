@@ -1,0 +1,27 @@
+ruta: "EMP. AR-111 (NUEVO SIBAYO) - TUTI - EMP.AR-681 (DV. CHIVAY)"
+sector: "EMP. AR-111 (NUEVO SIBAYO) - TUTI - EMP.AR-681 (DV. CHIVAY)"
+tramo: "EMP. AR-111 (NUEVO SIBAYO) - TUTI - EMP.AR-681 (DV. CHIVAY)"
+longitud: 32252.00
+meta: 32252.00
+fecha_inicio:
+  day: 15
+  month: 4
+  year: 2025
+tiempo_ejecucion_dias: 240
+progresiva_inicial: 0.00
+progresiva_final: 32252.00
+contratista: "PLATERS MANAGEMENT S.A.C."
+categoria: Vecinal
+jefe_mantenimiento: "Gerber Frank Platero Sandoval"
+numero_trabajadores: 3
+cuadrilla: Única
+monto: 33382.67
+numero_cuadrillas: 1
+servicio: Mantenimiento rutinario
+contrato: "004-2025"
+departamento: Arequipa
+provincia: Caylloma
+distritos:
+  - Chivay
+  - Tuti
+  - Sibayo
